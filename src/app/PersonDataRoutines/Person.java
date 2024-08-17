@@ -12,10 +12,6 @@ public class Person {
         this.position = position;
     }
 
-    public void setNumYearsOld(int numYearsOld) {
-        this.numYearsOld = numYearsOld;
-    }
-
     public void setPosition(String position) {
         this.position = position;
     }
