@@ -1,6 +1,6 @@
 package app.PersonDataRoutines;
 
-import app.PersonDataRoutines.Person;
+
 
 public class DBPerson {
 

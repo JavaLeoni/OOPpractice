@@ -12,22 +12,6 @@ public class Person {
         this.position = position;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public int getNumYearsOld() {
-        return numYearsOld;
-    }
-
-    public String getPosition() {
-        return position;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public void setNumYearsOld(int numYearsOld) {
         this.numYearsOld = numYearsOld;
     }
